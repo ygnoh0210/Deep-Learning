@@ -23,6 +23,7 @@ Task summary
   - Convnet filters
   - Heatmaps of class activation
   
-5.additional Grad-Cam vs. Grad-Cam++
+5. (additional) Visualizing CNN
+  - Grad-Cam vs. Grad-Cam++
 
 
